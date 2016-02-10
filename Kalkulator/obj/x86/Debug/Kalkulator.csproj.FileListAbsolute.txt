@@ -1,0 +1,9 @@
+C:\Users\igor\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\igor\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\igor\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\igor\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Form1.resources
+C:\Users\igor\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\igor\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\igor\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\igor\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\igor\Documents\Visual Studio 2010\Projects\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.pdb
